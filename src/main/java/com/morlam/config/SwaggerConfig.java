@@ -25,9 +25,9 @@ public class SwaggerConfig {
 	}
 
 	private ApiInfo apiInfo() {
-		return new ApiInfoBuilder().title("BookStore API Document")
-				.description("BookStore Example is All Document")
-				.license("[Artit Project License]")
+		return new ApiInfoBuilder().title("Morlamticket API Document")
+				.description("Morlamticket Example is All Document")
+				.license("[Morlam Project License]")
 				.build();
 	}
 }
